@@ -1,0 +1,23 @@
+
+Task 0
+	-> Refactor descripton section by adding the Description title and the materials belllow 
+	-> DONE 
+
+Task 1 
+	-> Add the title "Coose size" before to disply the sizes -> DONE
+	-> Make sizes a list of radio buttons -> Component is not rendering
+	-> The size will be a part from the Socks along with color and 
+			others when you press Add to Card button
+
+Task 3
+	-> Allow click on Cart(numberOfProducs) section and display all the products registered to the cart
+	-> The button will be disabble -> enable
+	-> on enable the products are showed
+	-> on disabble the products are hidden
+	
+Task 4
+	-> Create Favorite button
+	-> Exactly like Task 3
+
+
+
